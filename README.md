@@ -1,4 +1,3 @@
-# kali-windows-share
-- A place to share info gathered in my kali linux virtual machine
-- This is a place to share info/files between my main windows machine and the linux distrOS Kali (hackerman)
-- ### I'm also gonna use this repository to save files useful for hackerboi Dnx4
+# stuff
+- Um lugar pra zoar com a cara do cebm (de forma séria)
+- Um lugar para guardar tudo que possa prejudicar o cebm ou outra instituição, ou não 
